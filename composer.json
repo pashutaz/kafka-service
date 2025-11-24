@@ -1,0 +1,21 @@
+{
+  "name": "pashutaz/kafka-client",
+  "description": "Lightweight PHP Kafka service wrapper with ext-rdkafka (recommended)",
+  "minimum-stability": "stable",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "pashutaz",
+      "email": "pazaytsev@gmail.com"
+    }
+  ],
+  "require": {
+    "ext-json": "*",
+    "ext-rdkafka": "*",
+    "rdkafka/rdkafka": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "*"
+  }
+}
