@@ -1,4 +1,4 @@
-# Kafka service for delivery calculation
+# Kafka service
 
 ## Install librdkafka
 `sudo apt-get install -y librdkafka-dev`
